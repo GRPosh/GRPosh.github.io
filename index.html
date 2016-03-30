@@ -100,7 +100,7 @@
     <br />
     
     <div id="typed-commandLine2" style="display: none;">
-        <p>$UserGroup = New-UserGroup -Name GRPosh</p>
+        <p>$UserGroup = New-UserGroup -Name GRPosh -City "Grand Rapids" -State "Michigan" -Country "United States"</p>
     </div>
     <span id="commandLine2Base" style="display: none;">PS C:\Users\GRPosh></span>
     <span id="commandLine2"></span>
@@ -149,7 +149,7 @@
                 callback: function() { $(".typed-cursor").remove(); }
             });
         });
-            }, 4000);
+            }, 6000);
         
         setTimeout(function () {
             $("#typed-commandLine4").css("display", "inline");
@@ -160,7 +160,7 @@
                 callback: function() { $(".typed-cursor").remove(); }
             });
         });
-            }, 6000);
+            }, 8000);
     </script>
 </body>
 
