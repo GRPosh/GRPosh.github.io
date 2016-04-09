@@ -96,71 +96,83 @@
     </div>
     <span>PS C:\Users\GRPosh></span>
     <span id="commandLine1"></span>
-    
+
     <br />
-    
+
     <div id="typed-commandLine2" style="display: none;">
         <p>$UserGroup = New-UserGroup -Name GRPosh -City "Grand Rapids" -State "Michigan" -Country "United States"</p>
     </div>
     <span id="commandLine2Base" style="display: none;">PS C:\Users\GRPosh></span>
     <span id="commandLine2"></span>
-    
+
     <br />
-    
+
     <div id="typed-commandLine3" style="display: none;">
         <p>$UserGroup.Start()</p>
     </div>
     <span id="commandLine3Base" style="display: none;">PS C:\Users\GRPosh></span>
     <span id="commandLine3"></span>
-    
+
     <br />
-    
+
     <div id="typed-commandLine4" style="display: none;">
         <p>Now Loading...</p>
     </div>
     <span id="commandLine4"></span>
+    
+    <br />
+    <br />
+    
+    
+    <h1><a href="http://groupspaces.com/GRPosh/">GRPosh Groupspace</a></h1>
 
 
     <script>
+        $(function(){
+            $("#typed").typed({
+                stringsElement: $('#typed-strings')
+            });
+        });
         $(function () {
             $("#commandLine1").typed({
                 stringsElement: $('#typed-commandLine1'),
-                callback: function() { $(".typed-cursor").remove(); }
+                callback: function() { $(".typed-cursor").remove(); typeLine2(); }
             });
-        });
-        
-        setTimeout(function () {
-            $("#commandLine2Base").css("display", "inline");
-            $("#typed-commandLine2").css("display", "inline");
-            $(function () {
-            $("#commandLine2").typed({
-                stringsElement: $('#typed-commandLine2'),
-                callback: function() { $(".typed-cursor").remove(); }
-            });
-        });
-            }, 2000);
-        
-        setTimeout(function () {
+            
+            var typeLine2 = function () {
+                $("#commandLine2Base").css("display", "inline");
+                $("#typed-commandLine2").css("display", "inline");
+                $(function () {
+                $("#commandLine2").typed({
+                    stringsElement: $('#typed-commandLine2'),
+                    callback: function() { $(".typed-cursor").remove(); typeLine3(); }
+                    });
+                });
+            }
+            
+            
+            var typeLine3 = function () {
             $("#commandLine3Base").css("display", "inline");
             $("#typed-commandLine3").css("display", "inline");
             $(function () {
             $("#commandLine3").typed({
                 stringsElement: $('#typed-commandLine3'),
-                callback: function() { $(".typed-cursor").remove(); }
-            });
+                callback: function() { $(".typed-cursor").remove(); typeLine4(); }
+                    });
+                });
+            }
+            
+            var typeLine4 = function () {
+                $("#typed-commandLine4").css("display", "inline");
+                $(function () {
+                $("#commandLine4").typed({
+                    stringsElement: $('#typed-commandLine4'),
+                    showCursor: false,
+                    callback: function() { $(".typed-cursor").remove(); }
+                    });
+                });
+            }
         });
-            }, 6000);
-        
-        setTimeout(function () {
-            $("#typed-commandLine4").css("display", "inline");
-            $(function () {
-            $("#commandLine4").typed({
-                stringsElement: $('#typed-commandLine4'),
-                showCursor: false,
-                callback: function() { $(".typed-cursor").remove(); }
-            });
-        });
-            }, 8000);
     </script>
 </body>
 
