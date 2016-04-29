@@ -1,23 +1,28 @@
 ﻿[{
-    "id":  "http://groupspaces.com/GRPosh/api/events/1051074?alt=json",
-    "title":  "Building PowerShell GUIs with HTML",
-    "summary":  "Good evening powershellers!\u003cbr /\u003e\u003cbr /\u003eWe are going to get this group rolling again, and to start it off, Micah Rairdon will be giving a presentation of creating GUIs for PowerShell using HTML.  There are a few ways out there I have seen to do this, but I have never heard of using HTML so this should be an interesting demo.  I’m really looking forward to it.\u003cbr /\u003e\u003cbr /\u003eNext, if time permits I will give a small talk on using Classes in PowerShell, this is new to V5, but it should help bridge the gap a lot of devs have using PowerShell.\u003cbr /\u003e\u003cbr /\u003eThanks everyone, hope to see you all there.\u003cbr /\u003e\u003cbr /\u003eThomas Malkewitz | @dotps1",
+    "id":  "http://groupspaces.com/GRPosh/api/events/1054772?alt=json",
+    "title":  "Managing Active Directory Computers with PowerShell",
+    "summary":  "For his event one of our members, Katie, will be presenting a demo of how she manages Active Directory Computers with Windows PowerShell.\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eAlso, there will be a presentation on PowerShell module structure, folder hierarchy, source control, and continuous integration using GitHub and AppVeyor.\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eHope you all can make it.  Please respond to the RSVP even if you can\u0027t make it, but I hope you all can (there may even be some swag this time*).\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003e*no promises\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eThanks!\u003cbr /\u003e\u003cbr /\u003eThomas Malkewitz @dotps1",
     "active":  [
                    {
-                       "active":  "2016-04-21T17:00:00-04:00",
+                       "active":  "2016-05-19T17:00:00-04:00",
                        "time_tbc":  "0",
-                       "ends":  "2016-04-21T18:30:00-04:00",
+                       "ends":  "2016-05-19T18:30:00-04:00",
                        "approximate_description":  "",
-                       "week_of_year_number":  16,
+                       "week_of_year_number":  20,
                        "day_of_week_number":  5
                    }
                ],
     "alt":  {
-                "text/html":  "http://groupspaces.com/GRPosh/item/1051074"
+                "text/html":  "http://groupspaces.com/GRPosh/item/1054772"
             },
-    "embed":  "http://groupspaces.com/GRPosh/embed/item/1051074",
-    "published":  "2016-04-08T23:48:22+00:00",
-    "updated":  "2016-04-08T23:48:00+00:00",
+    "embed":  "http://groupspaces.com/GRPosh/embed/item/1054772",
+    "published":  "2016-04-29T00:53:14+00:00",
+    "updated":  "2016-04-29T00:53:00+00:00",
+    "categories":  [
+                       {
+                           "title":  "Club/Group Meeting"
+                       }
+                   ],
     "author":  {
                    "name":  "Thomas Malkewitz",
                    "email_address":  "get-alias@outlook.com"
@@ -25,9 +30,9 @@
     "group":  {
                   "name":  "GRPosh",
                   "logo":  {
-                               "url":  "http://media.groupspaces.com/thumb/s/1387999/h/d6cc18d5dd3f9323740aa677702b861e.jpg"
+                               "url":  "http://media.groupspaces.com/thumb/s/15535217/h/ed18625e119cf99ae9d570d603c0fe47.jpg"
                            }
               },
-    "location":  "775 – 36th St SE, Grand Rapids 49548, Building 3 (Education Center), Inspiration Conference Room",
-    "date_string":  "\u003cspan class=\"date\"\u003eThursday, April 21st, 2016\u003c/span\u003e at \u003cspan class=\"time\"\u003e5pm\u003c/span\u003e - \u003cspan class=\"time\"\u003e6:30pm\u003c/span\u003e"
+    "location":  "775 – 36th St SE, Grand Rapids 49548, Building 3 (Education Center), Collaboration Conference Room",
+    "date_string":  "\u003cspan class=\"date\"\u003eThursday, May 19th, 2016\u003c/span\u003e at \u003cspan class=\"time\"\u003e5pm\u003c/span\u003e - \u003cspan class=\"time\"\u003e6:30pm\u003c/span\u003e"
 }]
