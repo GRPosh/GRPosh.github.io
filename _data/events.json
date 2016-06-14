@@ -1,28 +1,23 @@
 ﻿[{
-    "id":  "http://groupspaces.com/GRPosh/api/events/1054772?alt=json",
-    "title":  "Managing Active Directory Computers with PowerShell",
-    "summary":  "For his event one of our members, Katie, will be presenting a demo of how she manages Active Directory Computers with Windows PowerShell.\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eAlso, there will be a presentation on PowerShell module structure, folder hierarchy, source control, and continuous integration using GitHub and AppVeyor.\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eHope you all can make it.  Please respond to the RSVP even if you can\u0027t make it, but I hope you all can (there may even be some swag this time*).\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003e*no promises\u003cbr /\u003e\u003cbr /\u003e \u003cbr /\u003e\u003cbr /\u003eThanks!\u003cbr /\u003e\u003cbr /\u003eThomas Malkewitz @dotps1",
+    "id":  "http://groupspaces.com/GRPosh/api/events/1062634?alt=json",
+    "title":  "PowerShell 101 and an Introduction to the AST.",
+    "summary":  "Good morning everyone, sorry for the delay in getting this invite put together.  I have recently changed jobs and the transition has taken up a bit more time then I thought.  Anyway, Micah and have been discussing what to do next, and we decided to do a PowerShell 101.  Dive into some of the basics of PowerShell.  Micah will be giving a demo on some basics PowerShell practices.  Then I will be giving a very brief discussion on the AST Class msdn.microsoft.com/en-us/library/system.management.automation.language.ast%28v=vs.85%29.aspx.  And the reason I will be doing that is because we are going to create a Group Project that we can all work on to develop a Spell Checker in the ISE github.com/GRPosh/ISESpellCheck.  To start, i would like it to spell check comments, and then if we can even strings.  And the AST will help us parse code to do this.\u003cbr /\u003e\u003cbr /\u003eWe think it will be a good time, and we hope to see you all there.\u003cbr /\u003e\u003cbr /\u003ehave a great day\u003cbr /\u003e\u003cbr /\u003eThomas Malkewitz @dotps1",
     "active":  [
                    {
-                       "active":  "2016-05-19T17:00:00-04:00",
+                       "active":  "2016-06-23T17:30:00-04:00",
                        "time_tbc":  "0",
-                       "ends":  "2016-05-19T18:30:00-04:00",
+                       "ends":  "2016-06-23T19:00:00-04:00",
                        "approximate_description":  "",
-                       "week_of_year_number":  20,
+                       "week_of_year_number":  25,
                        "day_of_week_number":  5
                    }
                ],
     "alt":  {
-                "text/html":  "http://groupspaces.com/GRPosh/item/1054772"
+                "text/html":  "http://groupspaces.com/GRPosh/item/1062634"
             },
-    "embed":  "http://groupspaces.com/GRPosh/embed/item/1054772",
-    "published":  "2016-04-29T00:53:14+00:00",
-    "updated":  "2016-04-29T00:53:00+00:00",
-    "categories":  [
-                       {
-                           "title":  "Club/Group Meeting"
-                       }
-                   ],
+    "embed":  "http://groupspaces.com/GRPosh/embed/item/1062634",
+    "published":  "2016-06-13T12:21:11+00:00",
+    "updated":  "2016-06-13T12:21:00+00:00",
     "author":  {
                    "name":  "Thomas Malkewitz",
                    "email_address":  "get-alias@outlook.com"
@@ -33,6 +28,6 @@
                                "url":  "http://media.groupspaces.com/thumb/s/15535217/h/ed18625e119cf99ae9d570d603c0fe47.jpg"
                            }
               },
-    "location":  "775 – 36th St SE, Grand Rapids 49548, Building 3 (Education Center), Collaboration Conference Room",
-    "date_string":  "\u003cspan class=\"date\"\u003eThursday, May 19th, 2016\u003c/span\u003e at \u003cspan class=\"time\"\u003e5pm\u003c/span\u003e - \u003cspan class=\"time\"\u003e6:30pm\u003c/span\u003e"
+    "location":  "1 Haworth Center, Holland, MI 49423",
+    "date_string":  "\u003cspan class=\"date\"\u003eThursday, June 23rd, 2016\u003c/span\u003e at \u003cspan class=\"time\"\u003e5:30pm\u003c/span\u003e - \u003cspan class=\"time\"\u003e7pm\u003c/span\u003e"
 }]
