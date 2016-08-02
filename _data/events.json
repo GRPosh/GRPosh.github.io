@@ -1,33 +1,37 @@
 ﻿[{
-    "id":  "http://groupspaces.com/GRPosh/api/events/1062634?alt=json",
-    "title":  "PowerShell 101 and an Introduction to the AST.",
-    "summary":  "Good morning everyone, sorry for the delay in getting this invite put together.  I have recently changed jobs and the transition has taken up a bit more time then I thought.  Anyway, Micah and have been discussing what to do next, and we decided to do a PowerShell 101.  Dive into some of the basics of PowerShell.  Micah will be giving a demo on some basics PowerShell practices.  Then I will be giving a very brief discussion on the AST Class msdn.microsoft.com/en-us/library/system.management.automation.language.ast%28v=vs.85%29.aspx.  And the reason I will be doing that is because we are going to create a Group Project that we can all work on to develop a Spell Checker in the ISE github.com/GRPosh/ISESpellCheck.  To start, i would like it to spell check comments, and then if we can even strings.  And the AST will help us parse code to do this.\u003cbr /\u003e\u003cbr /\u003eWe think it will be a good time, and we hope to see you all there.\u003cbr /\u003e\u003cbr /\u003ehave a great day\u003cbr /\u003e\u003cbr /\u003eThomas Malkewitz @dotps1",
+    "id":  "http://groupspaces.com/GRPosh/api/events/1068262?alt=json",
+    "title":  "GRPosh at BarcampGR",
+    "summary":  "Hi everyone!\u003cbr /\u003e\u003cbr /\u003eFor next months meetup we are going to be replacing our standard meetup with an encouragement to attend and possibly present at BarcampGR.There is no pressure to present but if you do let the rest of the group know so we can attend. We can list them here on the invite too. There are going to be lots of great talks and presentations.Thomas Malkewitz will be presenting regarding using REST APIs with PowerShell.Micah Rairdon will be presenting a PowerShell 30 minute beginner crash course and a talk on Designing PowerShell GUIs in Visual Studio Community Edition.Be sure and register on their site as seating is limited.For more details visit Barcampgr.org",
     "active":  [
                    {
-                       "active":  "2016-06-23T17:30:00-04:00",
-                       "time_tbc":  "0",
-                       "ends":  "2016-06-23T19:00:00-04:00",
+                       "active":  "2016-08-26T00:00:00-04:00",
+                       "time_tbc":  "1",
+                       "ends":  "",
                        "approximate_description":  "",
-                       "week_of_year_number":  25,
-                       "day_of_week_number":  5
+                       "week_of_year_number":  34,
+                       "day_of_week_number":  6
                    }
                ],
     "alt":  {
-                "text/html":  "http://groupspaces.com/GRPosh/item/1062634"
+                "text/html":  "http://groupspaces.com/GRPosh/item/1068262"
             },
-    "embed":  "http://groupspaces.com/GRPosh/embed/item/1062634",
-    "published":  "2016-06-13T12:21:11+00:00",
-    "updated":  "2016-06-13T12:21:00+00:00",
+    "embed":  "http://groupspaces.com/GRPosh/embed/item/1068262",
+    "published":  "2016-07-28T19:24:27+00:00",
+    "updated":  "2016-07-28T19:24:00+00:00",
     "author":  {
-                   "name":  "Thomas Malkewitz",
-                   "email_address":  "get-alias@outlook.com"
+                   "name":  "Micah Rairdon",
+                   "email_address":  "micah.rairdon@gmail.com"
                },
+    "logo":  {
+                 "type":  "image/jpeg",
+                 "url":  "http://media.groupspaces.com/thumb/s/17089484/h/faaf73c5b4d13ebdc5fc977b08086b98.jpg"
+             },
     "group":  {
                   "name":  "GRPosh",
                   "logo":  {
                                "url":  "http://media.groupspaces.com/thumb/s/15535217/h/ed18625e119cf99ae9d570d603c0fe47.jpg"
                            }
               },
-    "location":  "1 Haworth Center, Holland, MI 49423",
-    "date_string":  "\u003cspan class=\"date\"\u003eThursday, June 23rd, 2016\u003c/span\u003e at \u003cspan class=\"time\"\u003e5:30pm\u003c/span\u003e - \u003cspan class=\"time\"\u003e7pm\u003c/span\u003e"
+    "location":  "DeVos Communications Center at Calvin College in Grand Rapids, MI. Not familiar with this venue?",
+    "date_string":  "\u003cspan class=\"date\"\u003eFriday, August 26th, 2016\u003c/span\u003e (all day)"
 }]
