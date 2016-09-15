@@ -1,51 +1,40 @@
 # Site settings
 title: GRPosh
-email: your-email@domain.com
-url: https://GRPosh.github.io
-description: "Website for the Grand Rapids PowerShell User Group."
-skills: "Grand Rapids, MI  --  PowerShell User Group"
-meta_author: Rairdon Micah
+description: 'We are the Grand Rapids Michigan PowerShell User Group. Join the Slack Team to find out more about events and meet other local PowerShellers.'
+url: 'http://grposh.github.io'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
 
-# Google webmaster tools
-google_verify:
+author:
+  name: GRPosh
+  email: grposh@outlook.com
+  slack_team: grposh
+  twitter_username: grposh
+  #facebook_username: joshgerdes
+  github_username:  grposh
+  #linkedin_username:  joshgerdes
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 0072c6 #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: GRPosh
-  location: Location
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/GRPosh
-  - title: github
-    url: http://github.com/GRPosh
-
-# Credits content
-credits: 'Freelancer theme tweaked by Micah Rairdon. Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
