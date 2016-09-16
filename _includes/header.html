@@ -77,10 +77,9 @@
                 </a>
               </li>
               {% endif %}
-
               <!-- RSS -->
               <li class="navigation__item">
-                <a href="{{ " feed.xml " | prepend: site.baseurl }}" title="Subscribe" target="_blank">
+                <a href="{{ site.url }}{{ site.baseurl}}feed.xml" title="Subscribe" target="_blank">
                   <i class="fa fa-rss fa-2x"></i>
                   <span class="label">RSS</span>
                 </a>
@@ -91,8 +90,9 @@
           </nav>
           <hr class="panel-cover__divider panel-cover__divider--secondary">
         </div>
+        
         <br />
-        <a href="https://grposhslack.herokuapp.com/">Join us on Slack!</a>
+        <script async defer src="https://grposhslack.herokuapp.com/slackin.js"></script>
       </div>
 
     </div>
