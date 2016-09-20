@@ -12,13 +12,13 @@ excerpt: "2016-09-15 5:30 PM - Sneden Auditorium, Davenport University"
 
 ---
 
-Most of you attending have used PowerShell quite a bit but I wanted to give a starters talk for those who may be interested in PowerShell but have never gotten into it (*cough* bring your coworkers *cough *cough*).
+Most of you attending have used PowerShell quite a bit but I wanted to give a starters talk for those who may be interested in PowerShell but have never gotten into it (*cough* bring your coworkers *cough* *cough*).
 
 Agenda will be:
 
-* Introduction to PowerShell
-* PowerShell vs Other Scripting Languages
-* Tips for Exploring PowerShell
+* Introduction to PowerShell.
+* PowerShell vs Other Scripting Languages.
+* Tips for Exploring PowerShell.
 * The only 3 PowerShell commands you'll ever need to remember.
 
 The talk will be held in Sneden Auditorium (Parking lots E or F).
