@@ -52,3 +52,11 @@ pre.highlight code,
   width: 100px;
   height: 100px;
 }
+
+.social {
+  text-align: center;
+}
+
+.social-button {
+  color: #3b8fe3;
+}
