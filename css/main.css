@@ -60,3 +60,7 @@ pre.highlight code,
 .social-button {
   color: #3b8fe3;
 }
+
+.social-button:hover {
+  color: #80bfff
+}
