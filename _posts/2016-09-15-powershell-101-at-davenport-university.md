@@ -1,8 +1,5 @@
 ---
 title:  "PowerShell 101 @ Davenport University!"
-date:   2016-09-15 10:00:00
-categories: 
-tags:
 excerpt: "2016-09-15 5:30 PM - Sneden Auditorium, Davenport University"
 ---
 

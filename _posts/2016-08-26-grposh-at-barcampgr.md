@@ -1,8 +1,5 @@
 ---
 title:  "GRPosh at BarcampGR"
-date:   2016-08-26 10:00:00
-categories: 
-tags:
 excerpt: "2016-08-26 6:30 PM - DeVos Communications Center, Calvin College"
 ---
 
