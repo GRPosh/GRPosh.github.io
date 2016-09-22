@@ -1,20 +1,20 @@
 ---
 title:  "PowerShell 102 - Building Advanced PowerShell Functions"
-excerpt: "2016-10-05 6:00 PM - Sneden meeting rooms 2 and 3, Davenport University"
+excerpt: "2016-10-05 6:00 PM - Sneden Meeting Rooms 2 and 3, Davenport University"
 ---
 
 * 2016-10-05 6:00 PM to 7:00 PM
-* Sneden meeting rooms 2 and 3, Davenport University
+* Sneden Meeting Rooms 2 and 3, Davenport University
 * 6191 Kraft Avenue S.E., Grand Rapids, MI 49512
 
 ---
 
-We are going to continue our entry into powershell talks for our newer members.  Thomas Malkewitz (@dotps1) will be giving a talk on how to build PowerShell Advanced Functions.
+We are going to continue our entry into PowerShell talks for our newer members.  Thomas Malkewitz (@dotps1) will be giving a talk on how to build PowerShell Advanced Functions.
 We will take an _everyday task_ and turn it into an Advanced Function from the inside out.
 
 Agenda will be:
 
-* Advanced Function Sturcture.
+* Advanced Function Structure.
 * Utilizing the Pipeline.
 * Parameter Binding.
 
