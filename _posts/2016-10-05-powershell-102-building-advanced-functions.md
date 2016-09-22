@@ -1,10 +1,10 @@
 ---
 title:  "PowerShell 102 - Building Advanced PowerShell Functions"
-excerpt: "2016-10-05 6:00 PM - Sneden Auditorium, Davenport University"
+excerpt: "2016-10-05 6:00 PM - Sneden meeting rooms 2 and 3, Davenport University"
 ---
 
 * 2016-10-05 6:00 PM to 7:00 PM
-* Sneden Auditorium, Davenport University
+* Sneden meeting rooms 2 and 3, Davenport University
 * 6191 Kraft Avenue S.E., Grand Rapids, MI 49512
 
 ---
