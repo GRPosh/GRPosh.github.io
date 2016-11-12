@@ -3,7 +3,7 @@ title:  "GR Dev Night"
 excerpt: "2016-11-02 6:00 PM - Davenport University"
 ---
 
-* 2016-10-05 5:30 PM to 8:30 PM
+* 2016-11-05 5:30 PM to 8:30 PM
 * Davenport University
 * 6191 Kraft Avenue S.E., Grand Rapids, MI 49512
 
