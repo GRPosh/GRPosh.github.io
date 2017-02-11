@@ -66,9 +66,9 @@ body {
 
 a {
 	text-decoration: none;
-	color: #e25440; }
+	color: #3b8fe3; }
 	a:hover {
-		color: #b9301c;
+		color: #80bfff;
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
