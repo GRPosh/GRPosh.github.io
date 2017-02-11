@@ -4,7 +4,7 @@ description: 'We are the Grand Rapids Michigan PowerShell User Group. Join the S
 url: 'http://grposh.github.io'
 baseurl: '/'
 google_analytics: 'UA-76450394-1'
-# disqus_shortname: 'your-disqus-name'
+disqus: 'GRPosh'
 
 author:
   name: GRPosh

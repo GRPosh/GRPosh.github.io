@@ -1,6 +1,7 @@
 ---
 title:  "Practical PowerShell Use Cases"
 excerpt: "2016-12-07 6:00 PM - Sneden Meeting Rooms 2 and 3, Davenport University"
+comments: true
 ---
 
 * 2016-12-07 5:30 PM to 7:00 PM

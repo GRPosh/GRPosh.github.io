@@ -1,6 +1,7 @@
 ---
 title:  "Into to DSC Part 2: Using A Pull Server"
 excerpt: "2017-03-01 6:00 PM - Classroom 227, Davenport University"
+comments: true
 ---
 
 * 2017-03-01 5:30 PM to 7:00 PM

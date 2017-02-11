@@ -1,6 +1,7 @@
 ---
 title:  "PowerShell 102 - Building Advanced PowerShell Functions"
 excerpt: "2016-10-05 6:00 PM - Sneden Meeting Rooms 2 and 3, Davenport University"
+comments: true
 ---
 
 * 2016-10-05 6:00 PM to 7:00 PM

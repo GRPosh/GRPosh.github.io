@@ -1,6 +1,7 @@
 ---
 title:  "GR Dev Night"
 excerpt: "2016-11-02 6:00 PM - Davenport University"
+comments: true
 ---
 
 * 2016-11-05 5:30 PM to 8:30 PM
