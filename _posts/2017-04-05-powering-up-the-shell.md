@@ -5,7 +5,7 @@ comments: true
 ---
 
 * 2017-04-05 5:30 PM to 7:00 PM
-* Davenport University, College of Business, Room 210"
+* Davenport University, College of Business, Room 210
 * 6191 Kraft Avenue S.E., Grand Rapids, MI 49512
 
 ---
