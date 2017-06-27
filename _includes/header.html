@@ -26,6 +26,7 @@
               <li class="navigation__item">
                 <a href="{{ site.baseurl }}#events" title="{{ site.author.name }} Events" class="events-button">
                   <i class="fa fa-calendar-o fa-2x"></i>
+                  <span class="label">Events</span>
                 </a>
               </li>
 
@@ -80,9 +81,15 @@
           <hr class="panel-cover__divider panel-cover__divider--secondary">
           
         </div>
+        {% if site.author.slack_team %}
+        <!-- Join Slack -->
+        <li class="navigation__item">
+          <a class="btn btn-default btn-sm" href="https://goo.gl/forms/9LFrz4wRWMrrG32i1" title="Join {{ site.author.name }} on Slack!" target="_blank"> 
+            <i class="fa fa-user-plus"></i> Join us on Slack!
+          </a>
+        </li>
+        {% endif %}
 
-        <a target="_blank" href="https://goo.gl/forms/9LFrz4wRWMrrG32i1">Join us on Slack!</a>
-      
       </div>
 
     </div>
