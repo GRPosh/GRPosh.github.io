@@ -9,9 +9,9 @@ disqus: 'GRPosh'
 author:
   name: GRPosh
   email: grposh@outlook.com
-  slack_team: grposh
+  slack_team: GRPosh
   twitter_username: grposh
-  github_username:  grposh
+  github_username:  GRPosh
   youtube_channel: https://www.youtube.com/channel/UCb9jg2gj9alnFVCXuRuEVaA
 
 defaults:
