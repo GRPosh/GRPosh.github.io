@@ -406,7 +406,7 @@ hr {
 		color: #FFF; }
 
 .cover-navigation {
-	margin-top: 10px; }
+	margin-top: 0px; }
 
 .cover-navigation--social {
 	margin-left: 30px; }
@@ -436,6 +436,7 @@ hr {
 
 .btn, .navigation__item a {
 	padding: 12px 20px;
+
 	font-size: .9em;
 	font-weight: bold;
 	letter-spacing: 1px;
@@ -515,7 +516,7 @@ nav {
 			opacity: 1; }
 
 .navigation--social {
-	margin-left: 1.5em; }
+	margin-left: 0em; }
 	.navigation--social a {
 		padding: 6px 8px 6px 9px; }
 		.navigation--social a .label {
