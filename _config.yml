@@ -1,7 +1,7 @@
 # Site settings
 title: GRPosh
 description: 'We are the Grand Rapids Michigan PowerShell User Group. Join the Slack Team to find out more about events and meet other local PowerShellers.'
-url: 'http://grposh.github.io'
+url: 'http://grposh.github.io/'
 baseurl: '/'
 google_analytics: 'UA-76450394-1'
 disqus: 'GRPosh'
