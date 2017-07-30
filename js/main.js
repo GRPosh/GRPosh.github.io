@@ -18,7 +18,7 @@ $(document).ready(function () {
     }
   })
 
-  if (window.location.hash && window.location.hash == '#events') {
+  if (window.location.hash == '#events') {
     $('.panel-cover').addClass('panel-cover--collapsed')
     $('.content-wrapper__inner').css('display', 'block')
   }
