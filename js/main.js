@@ -6,6 +6,7 @@ sitemap:
 
 $(document).ready(function () {
   $('a.events-button').click(function (e) {
+    $('.content-wrapper__inner').css('display', 'block')
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
