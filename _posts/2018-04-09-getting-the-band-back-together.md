@@ -4,7 +4,7 @@ excerpt: "2018-04-09 6:00 PM - Osgood Brewing"
 comments: true
 ---
 
-* 2017-10-04 5:30 PM to 7:00 PM
+* 2018-04-09 5:30 PM to 7:00 PM
 * Osgood Brewing
 * 4051 Chicago Dr SW, Grandville, MI 49418
 
